@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-The biggest challenge that I encountered while building the app would be figuring out how was I supposed to start, and how was I supposed to get the app to work. I didn't realize that there were step by step instructions already given, so I turned to Google to see if there was anything that could help me. My app did turn out to be a bit different because I decided to have the user input the tip amount rather than to have a button or slider.
+The biggest challenge that I encountered while building the app would be figuring out how was I supposed to start, and how was I supposed to get the app to work. I didn't realize that there were step by step instructions already given, so I turned to Google to see if there was anything that could help me. 
 
 ## License
 
