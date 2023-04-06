@@ -32,8 +32,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-The biggest challenge that I encountered while building the app would be figuring out how was I supposed to start, and how was I supposed to get the app to work. I didn't realize that there were step by step instructions already given, so I turned to Google to see if there was anything that could help me. 
 
 ## License
 
