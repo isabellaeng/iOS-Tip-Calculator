@@ -1,8 +1,8 @@
-# Pre-work - *Tip Calculator*
+
 
 **Tip Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Isabella Eng**
+
 
 Time spent: **5** hours spent in total
 
